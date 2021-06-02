@@ -1,0 +1,11 @@
+# Ignore poetry build folder
+**/.venv
+**/.vscode
+**/dist
+**/__pycache__
+
+# Ignore node module folder
+**/node_modules
+
+# Ignore pycharm folders
+.idea/
