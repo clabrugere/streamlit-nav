@@ -4,7 +4,7 @@ setuptools.setup(
     name="streamlit-nav",
     version="0.0.1",
     author="Clément LABRUGERE",
-    author_email="<clabrugere@gmail.com",
+    author_email="<clement.labrugere@gmail.com",
     description="Custom Streamlit module for multiplage apps navigation",
     long_description="Custom Streamlit module for multiplage apps navigation",
     long_description_content_type="text/plain",
